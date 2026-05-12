@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# shifae-portal
+
 # بوابة شفائي (Shifae Portal)
 
 ## وصف المشروع
@@ -34,5 +35,3 @@
    http://localhost:8000
 =======
 # shifae-portal
-
->>>>>>> parent of 536e4fd (Update README.md)
